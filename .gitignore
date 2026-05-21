@@ -5,3 +5,6 @@ _site/
 *.zip
 *.log
 apply_claude_v3.sh
+
+/.quarto/
+**/*.quarto_ipynb
