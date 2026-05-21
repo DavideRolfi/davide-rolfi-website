@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Davide Rolfi"
+  description: "PhD Candidate in Actuarial Science at Bayes Business School, City St George's, University of London."
+  favicon: favicon.svg
+  search: false
+  open-graph:
+    image: images/og-image.png
+    locale: en_GB
+  twitter-card:
+    image: images/og-image.png
+    card-style: summary_large_image
+  navbar:
+    pinned: true
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Service"
+        href: service.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    left: |
+      © 2026 Davide Rolfi · <a href="mailto:davide.rolfi@bayes.city.ac.uk">davide.rolfi@bayes.city.ac.uk</a>
+    right: "Bayes Business School · City St George's, University of London"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
+    page-layout: article
+    css: styles.css
+    anchor-sections: false
+    link-external-newwindow: true
+    link-external-icon: false
+    smooth-scroll: true
+    html-math-method: katex

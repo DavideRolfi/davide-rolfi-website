@@ -1,0 +1,52 @@
+---
+title: ""
+pagetitle: "Service & Leadership — Davide Rolfi"
+---
+
+# Service and Leadership
+
+<p class="page-intro">
+I contribute to academic service and PhD community building at Bayes Business School. Much of this work has focused on creating regular spaces for research exchange, peer feedback, and professional development among doctoral students.
+</p>
+
+## Academic Service
+
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">Ongoing</span>
+
+### Co-founder and Organiser — FAM PhD Talks
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+I co-founded FAM PhD Talks and help organise it as a monthly seminar series for the PhD community at Bayes Business School. The series gives PhD students and faculty members a regular space to present ongoing research, receive feedback, and exchange ideas across research areas.
+
+<div class="paper-links">
+<a class="btn btn-secondary" href="fam.html">View archive →</a>
+</div>
+
+:::
+
+::: {.paper-card}
+
+<span class="paper-label">Ongoing</span>
+
+### PhD Student Representative
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+I serve as a PhD student representative, helping connect doctoral students with faculty and the School. In this role, I raise student concerns, share feedback, and contribute to discussions and initiatives related to the PhD student experience.
+
+:::
+
+## Public Engagement
+
+::: {.paper-card}
+
+### Stochastic Modelling for Finance
+
+<p class="paper-meta">LinkedIn educational series · 10 episodes</p>
+
+Co-created a 10-part LinkedIn series explaining selected topics in finance, economics, and statistics for a broader academic and professional audience. The series aimed to make technical ideas more accessible while maintaining mathematical and financial precision.
+
+:::

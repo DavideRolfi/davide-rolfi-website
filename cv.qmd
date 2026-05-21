@@ -1,0 +1,23 @@
+---
+title: ""
+pagetitle: "Curriculum Vitae — Davide Rolfi"
+---
+
+# Curriculum Vitae
+
+<p class="page-intro">
+My full academic CV is available below. It includes details on my education, research, teaching experience, academic service, funding, technical skills, and selected academic activities.
+</p>
+
+<div class="cv-panel">
+
+<div class="cv-panel-text">
+<h3>Academic CV (PDF)</h3>
+<p>Complete PDF version of my academic CV.</p>
+</div>
+
+<div class="cv-panel-action">
+<a class="btn btn-primary" href="files/CV_Davide.pdf">Download CV</a>
+</div>
+
+</div>

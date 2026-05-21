@@ -1,0 +1,7 @@
+.DS_Store
+.quarto/
+_site/
+*_files/
+*.zip
+*.log
+apply_claude_v3.sh

@@ -1,0 +1,70 @@
+---
+title: ""
+pagetitle: "Davide Rolfi — PhD Candidate in Actuarial Science"
+description-meta: "Davide Rolfi is a PhD Candidate in Actuarial Science at Bayes Business School, City St George's, University of London. His research focuses on stochastic control, pensions, life-cycle finance, portfolio choice, and sustainable investment."
+---
+
+::: {.home-hero}
+
+::: {.home-hero-grid}
+
+::: {.home-hero-text}
+
+<p class="home-kicker">PhD Candidate · Actuarial Science</p>
+
+# Davide Rolfi
+
+<p class="subtitle">Stochastic control, pensions, life-cycle finance, and sustainable investment</p>
+
+<p class="affiliation">Bayes Business School · City St George's, University of London</p>
+
+<p class="intro">
+I use continuous-time stochastic control to study long-term financial decisions in actuarial science, pension finance, and sustainable investment. My research focuses on how individuals, pension funds, and firms respond to financial, longevity, and sustainability-related risks.
+</p>
+
+:::
+
+::: {.home-hero-portrait}
+
+<div class="portrait-frame">
+<span class="portrait-initials" aria-hidden="true">DR</span>
+<img src="images/portrait.jpg" alt="Davide Rolfi">
+</div>
+
+:::
+
+:::
+
+::: {.facts-grid}
+
+::: {}
+<p class="label">Research fields</p>
+<p class="value">Actuarial science, stochastic control, pension finance, life-cycle finance, sustainable investment</p>
+:::
+
+::: {}
+<p class="label">Current paper</p>
+<p class="value"><a href="research.html#current-paper">Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences</a></p>
+:::
+
+::: {}
+<p class="label">Supervisors</p>
+<p class="value">Professor Steven Haberman<br>
+Dr Iqbal Owadally<br>
+<span class="small-muted">Bayes Business School</span></p>
+:::
+
+::: {}
+<p class="label">Contact</p>
+<p class="value"><a href="mailto:davide.rolfi@bayes.city.ac.uk">davide.rolfi@bayes.city.ac.uk</a></p>
+:::
+
+:::
+
+<div class="button-row">
+<a class="btn btn-primary" href="files/CV_Davide.pdf">Download CV</a>
+<a class="btn btn-secondary" href="research.html">Research</a>
+<a class="btn btn-secondary" href="contact.html">Contact</a>
+</div>
+
+:::

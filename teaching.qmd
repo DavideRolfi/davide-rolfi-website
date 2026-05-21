@@ -1,0 +1,48 @@
+---
+title: ""
+pagetitle: "Teaching — Davide Rolfi"
+---
+
+# Teaching
+
+<p class="page-intro">
+I have taught and supported students in finance, quantitative methods, VBA, financial mathematics, and one-to-one tutorials. My teaching interests include actuarial science, financial economics, portfolio theory, risk management, optimisation, applied statistics, and quantitative finance.
+</p>
+
+## Teaching Experience
+
+::: {.paper-card}
+
+### Teaching Assistant — Introduction to VBA
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+Supported an applied course on VBA programming and spreadsheet-based problem solving. The course introduced students to basic programming concepts in Excel and their use in financial and quantitative applications.
+
+:::
+
+::: {.paper-card}
+
+### Marker — Introduction to Finance and Accounting
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+Marked student work for an introductory finance and accounting module.
+
+:::
+
+::: {.paper-card}
+
+### One-to-one tutorials in mathematics and finance
+
+<p class="paper-meta">Independent · Undergraduate and postgraduate students</p>
+
+Provided individual tutorials for undergraduate and postgraduate students in mathematics, finance, and quantitative methods.
+
+:::
+
+## Teaching Interests
+
+<p class="research-interests">
+Actuarial science · financial economics · portfolio theory · risk management · optimisation · applied statistics · quantitative finance · financial mathematics
+</p>

@@ -1,0 +1,86 @@
+---
+title: ""
+pagetitle: "Research — Davide Rolfi"
+---
+
+# Research
+
+<p class="page-intro">
+My research lies at the intersection of actuarial science, mathematical finance, and sustainable investment. I develop continuous-time stochastic control models to study how individuals, pension funds, and firms make long-term financial decisions under uncertainty, with a focus on financial risk, labour income, longevity risk, pension design, and sustainability-related constraints.
+</p>
+
+## Selected Working Paper {#current-paper}
+
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">Selected working paper</span>
+
+### Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences
+
+<p class="paper-meta">Working paper</p>
+
+This paper studies sustainable investment in a defined-contribution pension setting. We develop a continuous-time portfolio choice model in which a pension fund allocates wealth during the accumulation period while balancing financial performance, investment risk, and sustainability objectives. The framework characterizes how ESG-related constraints affect optimal asset allocation and long-term pension outcomes.
+
+<p class="muted-text"><em>Draft available upon request.</em></p>
+
+:::
+
+## Publications and Revise-and-Resubmit
+
+::: {.paper-card}
+
+### The Sustainability Trade-Off: A Dynamic Constrained Portfolio Optimization Model with ESG Preferences
+
+<p class="paper-meta">Revise and resubmit · <em>Quantitative Finance</em></p>
+
+<p class="paper-coauthors">with Andrea Buffoli and Francesco Menoncin</p>
+
+This paper studies the trade-off faced by investors who care about both financial performance and sustainability. We model ESG preferences as constraints on portfolio composition in a continuous-time investment problem, showing how these constraints change the investor’s attainable wealth and optimal strategy. The framework provides closed-form solutions and measures the cost of sustainability as the utility loss relative to an unconstrained Merton benchmark. We also study how subjective ESG beliefs affect perceived returns, portfolio allocation, and the set of attainable investment outcomes.
+
+:::
+
+## Working Papers
+
+::: {.paper-card}
+
+### Signal or Substance? Greenwashing Risk in Continuous Time
+
+<p class="paper-meta">Working paper</p>
+
+This paper develops a continuous-time stochastic control model of corporate sustainability under verification risk. The framework distinguishes between a firm’s perceived green standing and its true green quality, and studies how the interaction between the two affects equity value, leverage, payout, and sustainability investment decisions. The model characterizes how firms balance the reputational benefits of appearing sustainable against the risk of verification and information-driven repricing.
+
+:::
+
+::: {.paper-card}
+
+### Mind the Gap: Optimal Retirement, Portfolio Choice, Consumption, and Gender Inequality in Pensions
+
+<p class="paper-meta">Working paper</p>
+
+This paper studies how labour-market inequality accumulates over the life cycle and translates into pension inequality at retirement. We develop a continuous-time life-cycle model in which individuals jointly choose consumption, labour supply, portfolio allocation, and retirement timing while facing stochastic wages, financial market risk, mortality risk, and pension accumulation. The framework embeds gender-specific labour-market profiles to study how wages, working hours, career interruptions, portfolio choices, and survival prospects affect retirement incentives and pension adequacy.
+
+:::
+
+## Research Agenda
+
+<p class="research-interests">
+My research agenda is organised around three connected themes. First, I study long-term household and pension decisions, focusing on how labour income, longevity risk, pension rules, and retirement incentives shape consumption, labour supply, portfolio choice, pension accumulation, and retirement timing.
+</p>
+
+<p class="research-interests">
+Second, I study sustainable investment in dynamic settings. This work examines how ESG preferences and sustainability constraints affect optimal portfolio choice, pension fund investment, and the trade-off between financial performance and non-financial objectives.
+</p>
+
+<p class="research-interests">
+Third, I examine sustainability-related risks at the firm level, including greenwashing risk and the gap between perceived and substantive sustainability. This strand studies how verification risk, information-driven repricing, and reputational incentives affect investment, payout, leverage, and sustainability effort.
+</p>
+
+<p class="research-interests">
+Methodologically, my work combines stochastic control, optimal stopping, dynamic portfolio choice, and numerical analysis. My aim is to develop models that are mathematically rigorous, tractable, and closely connected to questions in actuarial science, pension finance, and sustainable finance.
+</p>
+
+## Research Interests
+
+<p class="research-interests">
+Actuarial science · stochastic control · pension economics · life-cycle finance · portfolio choice · longevity risk · sustainable investment · greenwashing risk
+</p>

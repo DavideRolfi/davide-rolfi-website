@@ -1,0 +1,42 @@
+---
+title: ""
+pagetitle: "Contact — Davide Rolfi"
+---
+
+# Get in touch
+
+<p class="page-intro">
+I welcome enquiries about research, seminars, teaching, academic service, or related academic opportunities.
+</p>
+
+<div class="contact-panel">
+
+<div class="contact-block">
+
+<h3>Davide Rolfi</h3>
+
+<p>
+PhD Candidate in Actuarial Science<br>
+Bayes Business School<br>
+City St George's, University of London
+</p>
+
+<p>
+<strong>Email</strong> · <a href="mailto:davide.rolfi@bayes.city.ac.uk">davide.rolfi@bayes.city.ac.uk</a>
+</p>
+
+</div>
+
+<div class="contact-links">
+
+<h3>Profiles</h3>
+
+<ul>
+<li><a href="files/CV_Davide.pdf">Academic CV (PDF)</a></li>
+<li><a href="https://www.linkedin.com/in/davide-rolfi-3b9128211/">LinkedIn</a></li>
+<li><a href="https://orcid.org/0009-0000-3919-2546">ORCID</a></li>
+</ul>
+
+</div>
+
+</div>
