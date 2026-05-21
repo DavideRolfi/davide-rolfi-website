@@ -59,13 +59,17 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Service &amp; Leadership — Davide Rolfi">
 <meta property="og:description" content="PhD Candidate in Actuarial Science at Bayes Business School, City St George’s, University of London.">
-<meta property="og:image" content="images/og-image.png">
+<meta property="og:image" content="https://daviderolfi.com/images/og-image.png">
 <meta property="og:site_name" content="Davide Rolfi">
 <meta property="og:locale" content="en_GB">
+<meta property="og:image:height" content="630">
+<meta property="og:image:width" content="1200">
 <meta name="twitter:title" content="Service &amp; Leadership — Davide Rolfi">
 <meta name="twitter:description" content="PhD Candidate in Actuarial Science at Bayes Business School, City St George’s, University of London.">
-<meta name="twitter:image" content="images/og-image.png">
+<meta name="twitter:image" content="https://daviderolfi.com/images/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image-height" content="630">
+<meta name="twitter:image-width" content="1200">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -238,7 +242,7 @@ LinkedIn educational series · 10 episodes
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/daviderolfi\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
