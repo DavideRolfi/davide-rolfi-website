@@ -41,7 +41,6 @@ This paper studies the trade-off faced by investors who care about both financia
 
 ## Working Papers
 
-```{=comment}
 ::: {.paper-card}
 
 ### Signal or Substance? Greenwashing Risk in Continuous Time
@@ -51,7 +50,6 @@ This paper studies the trade-off faced by investors who care about both financia
 This paper develops a continuous-time stochastic control model of corporate sustainability under verification risk. The framework distinguishes between a firm’s perceived green standing and its true green quality, and studies how the interaction between the two affects equity value, leverage, payout, and sustainability investment decisions. The model characterizes how firms balance the reputational benefits of appearing sustainable against the risk of verification and information-driven repricing.
 
 :::
-```
 
 ::: {.paper-card}
 
