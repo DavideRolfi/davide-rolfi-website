@@ -9,23 +9,7 @@ pagetitle: "Research — Davide Rolfi"
 My research lies at the intersection of actuarial science, mathematical finance, and sustainable investment. I develop continuous-time stochastic control models to study how individuals, pension funds, and firms make long-term financial decisions under uncertainty, with a focus on financial risk, labour income, longevity risk, pension design, and sustainability-related constraints.
 </p>
 
-## Selected Working Paper {#current-paper}
-
-::: {.paper-card .featured-paper}
-
-<span class="paper-label">Selected working paper</span>
-
-### Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences
-
-<p class="paper-meta">Working paper</p>
-
-This paper studies sustainable investment in a defined-contribution pension setting. We develop a continuous-time portfolio choice model in which a pension fund allocates wealth during the accumulation period while balancing financial performance, investment risk, and sustainability objectives. The framework characterizes how ESG-related constraints affect optimal asset allocation and long-term pension outcomes.
-
-<p class="muted-text"><em>Draft available upon request.</em></p>
-
-:::
-
-## Publications and Revise-and-Resubmit
+## Revise-and-Resubmit
 
 ::: {.paper-card}
 
@@ -39,27 +23,39 @@ This paper studies the trade-off faced by investors who care about both financia
 
 :::
 
-## Working Papers
+## Submitted Papers {#current-paper}
 
-```{=comment}
-::: {.paper-card}
+::: {.paper-card .featured-paper}
 
-### Signal or Substance? Greenwashing Risk in Continuous Time
+### Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences
 
-<p class="paper-meta">Working paper</p>
+<p class="paper-meta">Submitted to <em>Insurance: Mathematics and Economics</em></p>
 
-This paper develops a continuous-time stochastic control model of corporate sustainability under verification risk. The framework distinguishes between a firm’s perceived green standing and its true green quality, and studies how the interaction between the two affects equity value, leverage, payout, and sustainability investment decisions. The model characterizes how firms balance the reputational benefits of appearing sustainable against the risk of verification and information-driven repricing.
+<p class="paper-coauthors">with Steven Haberman and Iqbal Owadally</p>
+
+This paper studies sustainable investment in a defined-contribution pension setting. We develop a continuous-time portfolio choice model in which a pension fund allocates wealth during the accumulation period while balancing financial performance, investment risk, and sustainability objectives. The framework characterizes how ESG-related constraints affect optimal asset allocation and long-term pension outcomes.
+
+<p class="muted-text"><em>Draft available upon request.</em></p>
 
 :::
-```
 
 ::: {.paper-card}
 
-### Mind the Gap: Optimal Retirement, Portfolio Choice, Consumption, and Gender Inequality in Pensions
+### Mind the Gap: Portfolio Choice, Consumption, and Gender Inequality in Pensions
 
-<p class="paper-meta">Working paper</p>
+<p class="paper-meta">Submitted to <em>Journal of Risk and Insurance</em></p>
+
+<p class="paper-coauthors">with Andrea Buffoli</p>
 
 This paper studies how labour-market inequality accumulates over the life cycle and translates into pension inequality at retirement. We develop a continuous-time life-cycle model in which individuals jointly choose consumption, labour supply, portfolio allocation, and retirement timing while facing stochastic wages, financial market risk, mortality risk, and pension accumulation. The framework embeds gender-specific labour-market profiles to study how wages, working hours, career interruptions, portfolio choices, and survival prospects affect retirement incentives and pension adequacy.
+
+:::
+
+## Working Papers
+
+::: {.paper-card .featured-paper}
+
+### How Should Sustainability Audits Be Designed? A Stochastic Control Model of Greenwashing.
 
 :::
 

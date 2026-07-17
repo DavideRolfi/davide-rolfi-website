@@ -1,6 +1,14 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - index.qmd
+    - research.qmd
+    - teaching.qmd
+    - service.qmd
+    - cv.qmd
+    - fam.qmd
+    - contact.qmd
 
 website:
   title: "Davide Rolfi"
