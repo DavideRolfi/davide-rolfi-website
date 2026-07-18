@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - images/og-image.png
   render:
     - index.qmd
     - research.qmd
@@ -43,7 +45,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: default
     toc: false
     page-layout: article
     css: styles.css

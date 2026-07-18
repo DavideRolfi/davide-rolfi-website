@@ -3,7 +3,13 @@ title: ""
 pagetitle: "Teaching — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Instruction &amp; Mentoring</p>
+
 # Teaching
+
+:::
 
 <p class="page-intro">
 I have taught and supported students in finance, quantitative methods, VBA, financial mathematics, and one-to-one tutorials. My teaching interests include actuarial science, financial economics, portfolio theory, risk management, optimisation, applied statistics, and quantitative finance.

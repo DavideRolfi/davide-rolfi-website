@@ -3,7 +3,13 @@ title: ""
 pagetitle: "Curriculum Vitae — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Academic Record</p>
+
 # Curriculum Vitae
+
+:::
 
 <p class="page-intro">
 My full academic CV is available below. It includes details on my education, research, teaching experience, academic service, funding, technical skills, and selected academic activities.

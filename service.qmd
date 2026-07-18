@@ -3,7 +3,13 @@ title: ""
 pagetitle: "Service & Leadership — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Community &amp; Outreach</p>
+
 # Service and Leadership
+
+:::
 
 <p class="page-intro">
 I contribute to academic service and PhD community building at Bayes Business School. Much of this work has focused on creating regular spaces for research exchange, peer feedback, and professional development among doctoral students.

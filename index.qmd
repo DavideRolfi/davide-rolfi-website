@@ -6,6 +6,8 @@ description-meta: "Davide Rolfi is a PhD Candidate in Actuarial Science at Bayes
 
 ::: {.home-hero}
 
+<div class="hero-motif" aria-hidden="true"></div>
+
 ::: {.home-hero-grid}
 
 ::: {.home-hero-text}
@@ -24,11 +26,19 @@ description-meta: "Davide Rolfi is a PhD Candidate in Actuarial Science at Bayes
 I use continuous-time stochastic control to study long-term financial decisions in actuarial science, pension finance, and sustainable investment. My research focuses on how individuals, pension funds, and firms respond to financial, longevity, and sustainability-related risks.
 </p>
 
+<div class="button-row">
+<a class="btn btn-primary" href="files/CV_Davide.pdf">Download CV</a>
+<a class="btn btn-secondary" href="research.html">Research</a>
+<a class="btn btn-secondary" href="contact.html">Contact</a>
+</div>
+
 :::
 
 ::: {.home-hero-portrait}
 
 <div class="portrait-frame"><span class="portrait-initials" aria-hidden="true">DR</span><img src="images/portrait.jpg" alt="Davide Rolfi"></div>
+
+:::
 
 :::
 
@@ -57,13 +67,5 @@ Dr Iqbal Owadally<br>
 <p class="label">Contact</p>
 <p class="value"><a href="mailto:davide.rolfi@bayes.city.ac.uk">davide.rolfi@bayes.city.ac.uk</a></p>
 :::
-
-:::
-
-<div class="button-row">
-<a class="btn btn-primary" href="files/CV_Davide.pdf">Download CV</a>
-<a class="btn btn-secondary" href="research.html">Research</a>
-<a class="btn btn-secondary" href="contact.html">Contact</a>
-</div>
 
 :::

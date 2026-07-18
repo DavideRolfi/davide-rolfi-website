@@ -3,7 +3,13 @@ title: ""
 pagetitle: "FAM PhD Talks — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Seminar Series · Bayes Business School</p>
+
 # FAM PhD Talks
+
+:::
 
 <p class="page-intro">
 FAM PhD Talks is a monthly research seminar series at Bayes Business School, co-founded to create a regular forum for doctoral students and faculty members to present research, exchange feedback, and strengthen the PhD research community.

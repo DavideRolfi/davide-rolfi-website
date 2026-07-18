@@ -3,7 +3,13 @@ title: ""
 pagetitle: "Contact — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Correspondence</p>
+
 # Get in touch
+
+:::
 
 <p class="page-intro">
 I welcome enquiries about research, seminars, teaching, academic service, or related academic opportunities.

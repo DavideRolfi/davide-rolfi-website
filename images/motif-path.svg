@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 520" fill="none" aria-hidden="true" role="presentation">
+  <path d="M 8 452 C 55 420, 78 468, 118 430 C 158 392, 140 340, 186 322 C 232 304, 222 366, 268 350 C 314 334, 296 262, 340 244 C 384 226, 378 292, 420 270 C 462 248, 446 176, 488 156 C 530 136, 520 200, 560 178 C 590 162, 596 110, 628 92"
+        stroke="#c79a4b" stroke-width="2.25" stroke-linecap="round" stroke-opacity="0.55"/>
+  <path d="M 8 452 C 55 420, 78 468, 118 430 C 158 392, 140 340, 186 322 C 232 304, 222 366, 268 350 C 314 334, 296 262, 340 244 C 384 226, 378 292, 420 270 C 462 248, 446 176, 488 156 C 530 136, 520 200, 560 178 C 590 162, 596 110, 628 92"
+        stroke="#c79a4b" stroke-width="0.75" stroke-dasharray="1 7" stroke-linecap="round" stroke-opacity="0.9" transform="translate(0 -34)"/>
+  <path d="M 8 452 C 55 420, 78 468, 118 430 C 158 392, 140 340, 186 322 C 232 304, 222 366, 268 350 C 314 334, 296 262, 340 244 C 384 226, 378 292, 420 270 C 462 248, 446 176, 488 156 C 530 136, 520 200, 560 178 C 590 162, 596 110, 628 92"
+        stroke="#3a5f74" stroke-width="0.75" stroke-dasharray="1 7" stroke-linecap="round" stroke-opacity="0.7" transform="translate(0 34)"/>
+  <g fill="#c79a4b" fill-opacity="0.8">
+    <circle cx="118" cy="430" r="3.5"/>
+    <circle cx="268" cy="350" r="3.5"/>
+    <circle cx="420" cy="270" r="3.5"/>
+    <circle cx="560" cy="178" r="3.5"/>
+    <circle cx="628" cy="92" r="4.5"/>
+  </g>
+</svg>

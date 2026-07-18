@@ -3,7 +3,13 @@ title: ""
 pagetitle: "Research — Davide Rolfi"
 ---
 
+::: {.page-header}
+
+<p class="page-kicker">Publications &amp; Working Papers</p>
+
 # Research
+
+:::
 
 <p class="page-intro">
 My research lies at the intersection of actuarial science, mathematical finance, and sustainable investment. I develop continuous-time stochastic control models to study how individuals, pension funds, and firms make long-term financial decisions under uncertainty, with a focus on financial risk, labour income, longevity risk, pension design, and sustainability-related constraints.
@@ -11,11 +17,13 @@ My research lies at the intersection of actuarial science, mathematical finance,
 
 ## Revise-and-Resubmit
 
-::: {.paper-card}
+::: {.paper-card .status-rr}
+
+<span class="status-tag">Revise & Resubmit</span>
+
+<p class="status-meta">Journal: <em>Quantitative Finance</em></p>
 
 ### The Sustainability Trade-Off: A Dynamic Constrained Portfolio Optimization Model with ESG Preferences
-
-<p class="paper-meta">Revise and resubmit · <em>Quantitative Finance</em></p>
 
 <p class="paper-coauthors">with Andrea Buffoli and Francesco Menoncin</p>
 
@@ -25,11 +33,13 @@ This paper studies the trade-off faced by investors who care about both financia
 
 ## Submitted Papers {#current-paper}
 
-::: {.paper-card .featured-paper}
+::: {.paper-card .featured-paper .status-submitted}
+
+<span class="status-tag">Submitted</span>
+
+<p class="status-meta">Submitted to: <em>Insurance: Mathematics and Economics</em></p>
 
 ### Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences
-
-<p class="paper-meta">Submitted to <em>Insurance: Mathematics and Economics</em></p>
 
 <p class="paper-coauthors">with Steven Haberman and Iqbal Owadally</p>
 
@@ -39,11 +49,13 @@ This paper studies sustainable investment in a defined-contribution pension sett
 
 :::
 
-::: {.paper-card}
+::: {.paper-card .status-submitted}
+
+<span class="status-tag">Submitted</span>
+
+<p class="status-meta">Submitted to: <em>Journal of Risk and Insurance</em></p>
 
 ### Mind the Gap: Portfolio Choice, Consumption, and Gender Inequality in Pensions
-
-<p class="paper-meta">Submitted to <em>Journal of Risk and Insurance</em></p>
 
 <p class="paper-coauthors">with Andrea Buffoli</p>
 
