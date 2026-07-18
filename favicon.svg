@@ -1,9 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="10" fill="#2f4f6f"/>
-  <text x="50%" y="50%" dy=".08em"
-        text-anchor="middle" dominant-baseline="middle"
-        fill="#fbfaf7"
-        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif"
-        font-weight="700" font-size="30"
-        letter-spacing="-1.5">DR</text>
+  <circle cx="32" cy="32" r="32" fill="#101a2c"/>
+  <!-- D -->
+  <path fill="#f4efe3" fill-rule="evenodd" d="
+    M13 17 H23 C31 17 36 23 36 32 C36 41 31 47 23 47 H13 Z
+    M20 24 H23 C27 24 29 27 29 32 C29 37 27 40 23 40 H20 Z
+  "/>
+  <!-- R -->
+  <path fill="#f4efe3" fill-rule="evenodd" d="
+    M31 47 V17 H41 C48 17 51 20.5 51 26 C51 30.5 49 33.3 45.2 34.6 L52 47 H45.3 L39.3 35.5 H38 V47 Z
+    M38 23.5 V29.3 H41 C43.6 29.3 44.6 28 44.6 26.3 C44.6 24.6 43.6 23.5 41 23.5 Z
+  "/>
 </svg>
