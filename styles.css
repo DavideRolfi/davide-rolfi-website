@@ -960,6 +960,44 @@ h3 {
   }
 }
 
+/* ---------- Stochastic Modelling for Finance archive ---------- */
+
+.episode-card {
+  display: flex;
+  flex-direction: column;
+}
+
+.episode-card img {
+  object-position: top center;
+}
+
+.episode-card .event-card-text {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.episode-card .event-speakers {
+  margin-bottom: 1rem;
+}
+
+.episode-link {
+  margin: auto 0 0 0;
+  padding-top: 0.9rem;
+}
+
+.episode-link a {
+  display: inline-block;
+  color: var(--accent-dark);
+  font-family: var(--sans);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.episode-link a:hover {
+  color: var(--ink-deep);
+}
+
 /* ---------- Mobile ---------- */
 
 @media (max-width: 900px) {

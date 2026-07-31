@@ -2,30 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://daviderolfi.com/contact.html</loc>
-    <lastmod>2026-07-18T12:56:53.640Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderolfi.com/cv.html</loc>
-    <lastmod>2026-07-18T12:56:53.640Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderolfi.com/teaching.html</loc>
-    <lastmod>2026-07-18T12:56:53.642Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderolfi.com/index.html</loc>
-    <lastmod>2026-07-18T12:57:31.725Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderolfi.com/research.html</loc>
-    <lastmod>2026-07-18T12:57:45.652Z</lastmod>
-  </url>
-  <url>
-    <loc>https://daviderolfi.com/service.html</loc>
-    <lastmod>2026-07-18T12:56:53.641Z</lastmod>
+    <lastmod>2026-07-30T12:06:17.340Z</lastmod>
   </url>
   <url>
     <loc>https://daviderolfi.com/fam.html</loc>
-    <lastmod>2026-07-18T12:56:53.640Z</lastmod>
+    <lastmod>2026-07-30T12:06:17.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/service.html</loc>
+    <lastmod>2026-07-30T12:06:17.339Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/presentations.html</loc>
+    <lastmod>2026-07-30T12:50:31.606Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/index.html</loc>
+    <lastmod>2026-07-30T12:06:17.361Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/research.html</loc>
+    <lastmod>2026-07-30T12:50:31.600Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/teaching.html</loc>
+    <lastmod>2026-07-30T12:06:17.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/cv.html</loc>
+    <lastmod>2026-07-30T12:06:17.412Z</lastmod>
+  </url>
+  <url>
+    <loc>https://daviderolfi.com/stochastic-modelling.html</loc>
+    <lastmod>2026-07-30T12:07:43.651Z</lastmod>
   </url>
 </urlset>
