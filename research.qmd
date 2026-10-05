@@ -23,7 +23,7 @@ My research lies at the intersection of actuarial science, mathematical finance,
 
 <p class="status-meta">Journal: <em>Quantitative Finance</em></p>
 
-### The Sustainability Trade-Off: A Dynamic Constrained Portfolio Optimization Model with ESG Preferences
+### The Sustainability Trade-Off: A Dynamic Constrained Portfolio Optimization Model with ESG Preferences {#sustainability-trade-off}
 
 <p class="paper-coauthors">with Andrea Buffoli and Francesco Menoncin</p>
 
@@ -31,19 +31,16 @@ This paper studies the trade-off faced by investors who care about both financia
 
 :::
 
-## Submitted Papers {#current-paper}
+## Work in Progress Papers {#current-paper}
 
 ::: {.paper-card .featured-paper .status-submitted}
 
-<span class="status-tag">Submitted</span>
+### Optimal Sustainable Retirement Investing: Continuous-Time Portfolio Choice for Individual Retirement Plans with ESG Preferences
 
-<p class="status-meta">Submitted to: <em>Insurance: Mathematics and Economics</em></p>
-
-### Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences
 
 <p class="paper-coauthors">with Steven Haberman and Iqbal Owadally</p>
 
-This paper studies sustainable investment in a defined-contribution pension setting. We develop a continuous-time portfolio choice model in which a pension fund allocates wealth during the accumulation period while balancing financial performance, investment risk, and sustainability objectives. The framework characterizes how ESG-related constraints affect optimal asset allocation and long-term pension outcomes.
+This paper studies sustainable portfolio choice in an individual retirement plan during the accumulation phase. We develop a continuous-time model in which contributions are linked to labour income and investors balance terminal retirement wealth against a penalty for falling short of a chosen ESG benchmark. The optimal portfolio decomposes into the standard Merton allocation and an ESG adjustment, making the trade-off between financial performance and sustainability explicit and quantifiable.
 
 <p class="muted-text"><em>Draft available upon request.</em></p>
 
@@ -51,11 +48,7 @@ This paper studies sustainable investment in a defined-contribution pension sett
 
 ::: {.paper-card .status-submitted}
 
-<span class="status-tag">Submitted</span>
-
-<p class="status-meta">Submitted to: <em>Journal of Risk and Insurance</em></p>
-
-### Mind the Gap: Portfolio Choice, Consumption, and Gender Inequality in Pensions
+### Endogenous Pension Accumulation in a Life-Cycle Model with Labor-Linked Contributions
 
 <p class="paper-coauthors">with Andrea Buffoli</p>
 
@@ -63,11 +56,17 @@ This paper studies how labour-market inequality accumulates over the life cycle 
 
 :::
 
-## Working Papers
+## Other Projects
 
 ::: {.paper-card .featured-paper}
 
 ### How Should Sustainability Audits Be Designed? A Stochastic Control Model of Greenwashing.
+
+:::
+
+::: {.paper-card}
+
+### From Theory to Measurement: An NLP Framework for Detecting Greenwashing in Sustainability Reports {#nlp-greenwashing}
 
 :::
 
@@ -78,7 +77,7 @@ My research agenda is organised around three connected themes. First, I study lo
 </p>
 
 <p class="research-interests">
-Second, I study sustainable investment in dynamic settings. This work examines how ESG preferences and sustainability constraints affect optimal portfolio choice, pension fund investment, and the trade-off between financial performance and non-financial objectives.
+Second, I study sustainable investment in dynamic settings. This work examines how ESG preferences shape optimal portfolio choice in retirement and investment problems, and how sustainability objectives interact with financial performance, risk, and long-term wealth outcomes.
 </p>
 
 <p class="research-interests">

@@ -16,6 +16,30 @@ I have taught and supported students in finance, quantitative methods, VBA, fina
 </p>
 
 ## Teaching Experience
+::: {.paper-card .featured-paper}
+
+
+<span class="paper-label">2026/27 · Upcoming</span>
+
+### MA2614 Financial and Investment Mathematics B
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+This module builds on the foundations of Financial and Investment Mathematics A. It applies compound-interest theory and present- and future-value methods to the analysis and valuation of financial cash flows and investment products. The module also examines the interaction between interest rates and financial markets, the sensitivity of portfolios to changes in interest rates, and the use of stochastic interest-rate models in financial valuation.
+
+:::
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">2026/27 · Upcoming</span>
+
+### MA1614 Financial and Investment Mathematics A
+
+<p class="paper-meta">Bayes Business School · City St George's, University of London</p>
+
+This module introduces the foundations of financial mathematics and their application to simple investment problems. It develops the core mathematical tools needed to quantify the time value of money and provides students with a rigorous basis for analysing financial cash flows and investment decisions.
+
+
+:::
 
 ::: {.paper-card}
 

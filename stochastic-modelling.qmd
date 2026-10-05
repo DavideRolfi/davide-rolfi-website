@@ -1,0 +1,142 @@
+---
+title: ""
+pagetitle: "Stochastic Modelling for Finance — Davide Rolfi"
+---
+
+::: {.page-header}
+
+<p class="page-kicker">Educational Series · Finance, Economics &amp; Statistics</p>
+
+# Stochastic Modelling for Finance
+
+:::
+
+<p class="page-intro">
+Stochastic Modelling for Finance is a nine-part educational series explaining selected topics in finance, economics, and statistics for a broader academic and professional audience.
+</p>
+
+## About the Series
+
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">9-part series · LinkedIn</span>
+
+### Accessible explanations of quantitative ideas
+
+The series was co-created by Andrea Buffoli and Davide Rolfi to make technical ideas more accessible while maintaining mathematical and financial precision.
+
+:::
+
+## Article Archive
+
+<div class="event-grid">
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP9.pdf">
+<img src="images/stochastic-modelling-for-finance/EP9.jpg" alt="Episode 9 · From Payoffs to Pricing: A Deep Dive into Options and the Black-Scholes Formula" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 09 · August 2025</p>
+<h3>From Payoffs to Pricing: A Deep Dive into Options and the Black-Scholes Formula</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP9.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP8.pdf">
+<img src="images/stochastic-modelling-for-finance/EP8.jpg" alt="Episode 8 · Derivatives in Finance: Understanding the Interest Rate Swap" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 08 · July 2025</p>
+<h3>Derivatives in Finance: Understanding the Interest Rate Swap</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP8.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP7.pdf">
+<img src="images/stochastic-modelling-for-finance/EP7.jpg" alt="Episode 7 · Derivatives in Finance: The Forward Contract Explained" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 07 · July 2025</p>
+<h3>Derivatives in Finance: The Forward Contract Explained</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP7.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP6.pdf">
+<img src="images/stochastic-modelling-for-finance/EP6.jpg" alt="Episode 6 · Studying the Volatility Structure of a Time Series: A Complete Guide" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 06 · July 2025</p>
+<h3>Studying the Volatility Structure of a Time Series: A Complete Guide</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP6.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP5.pdf">
+<img src="images/stochastic-modelling-for-finance/EP5.jpg" alt="Episode 5 · Studying the Mean Structure of a Time Series: A Complete Guide" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 05 · July 2025</p>
+<h3>Studying the Mean Structure of a Time Series: A Complete Guide</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP5.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP4.pdf">
+<img src="images/stochastic-modelling-for-finance/EP4.jpg" alt="Episode 4 · AR, MA, and ARMA Models: Historical Development, Theory and Application to Financial Time Series" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 04 · 30 June 2025</p>
+<h3>AR, MA, and ARMA Models: Historical Development, Theory and Application to Financial Time Series</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP4.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP3.pdf">
+<img src="images/stochastic-modelling-for-finance/EP3.jpg" alt="Episode 3 · Estimation of Cox-Ingersoll-Ross (CIR) Parameters: OLS and Maximum Likelihood Estimation (MLE) Methods" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 03 · 23 June 2025</p>
+<h3>Estimation of Cox-Ingersoll-Ross (CIR) Parameters: OLS and Maximum Likelihood Estimation (MLE) Methods</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP3.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP2.pdf">
+<img src="images/stochastic-modelling-for-finance/EP2.jpg" alt="Episode 2 · Estimation of Geometric Brownian Motion Parameters: MLE and Bayesian Methods" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 02 · 16 June 2025</p>
+<h3>Estimation of Geometric Brownian Motion Parameters: MLE and Bayesian Methods</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP2.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+<div class="event-card episode-card">
+<a href="files/stochastic-modelling-for-finance/EP1.pdf">
+<img src="images/stochastic-modelling-for-finance/EP1.jpg" alt="Episode 1 · Estimation and Application of the Vasicek Interest Rate Model" loading="lazy">
+</a>
+<div class="event-card-text">
+<p class="event-date">Episode 01 · 9 June 2025</p>
+<h3>Estimation and Application of the Vasicek Interest Rate Model</h3>
+<p class="event-speakers">Andrea Buffoli · Davide Rolfi</p>
+<p class="episode-link"><a href="files/stochastic-modelling-for-finance/EP1.pdf">Read article (PDF) →</a></p>
+</div>
+</div>
+
+</div>

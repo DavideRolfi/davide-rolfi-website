@@ -1,0 +1,75 @@
+---
+title: ""
+pagetitle: "Presentations — Davide Rolfi"
+---
+
+::: {.page-header}
+
+<p class="page-kicker">Conferences · Seminars · Posters</p>
+
+# Presentations
+
+:::
+
+<p class="page-intro">
+Selected presentations of my research at academic conferences, colloquia, seminars, and poster sessions.
+</p>
+
+## Conference Presentations
+
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">Conference presentation</span>
+
+### [Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences](research.html#current-paper)
+<p class="paper-meta">European Actuarial Journal · Istanbul</p>
+
+<p class="award-text">🏆 Best Presentation Award</p>
+
+<p class="muted-text">9–11 September 2026</p>
+
+:::
+
+
+
+::: {.paper-card .featured-paper}
+
+<span class="paper-label">Conference presentation</span>
+
+### [Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences](research.html#current-paper)
+
+<p class="paper-meta">Insurance Data Science Conference · House of Insurance, Leibniz Universität Hannover</p>
+
+<p class="muted-text">9–10 June 2026</p>
+
+:::
+
+::: {.paper-card}
+
+<span class="paper-label">Conference presentation</span>
+
+### [From Theory to Measurement: An NLP Framework for Detecting Greenwashing in Sustainability Reports](research.html#nlp-greenwashing)
+
+<p class="paper-meta">Joint PhD Colloquium · De Nederlandsche Bank (DNB)</p>
+
+<p class="muted-text">4 November 2025</p>
+
+:::
+
+## Poster Sessions
+
+::: {.paper-card}
+
+<span class="paper-label">Poster presentation</span>
+
+### Sustainable Choices under Uncertainty: A Constrained Portfolio Optimisation Framework with ESG-Driven Subjective Beliefs
+
+<p class="paper-meta">I.S.E.O. Summer School in Economics · 2025</p>
+
+<p class="muted-text">Earlier version of <a href="research.html#sustainability-trade-off"><em>The Sustainability Trade-Off: A Dynamic Constrained Portfolio Optimization Model with ESG Preferences</em></a>.</p>
+
+<div class="paper-links">
+<a class="btn btn-secondary" href="files/poster_esg.pdf">View poster (PDF) →</a>
+</div>
+
+:::

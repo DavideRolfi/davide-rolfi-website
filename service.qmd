@@ -51,8 +51,12 @@ I serve as a PhD student representative, helping connect doctoral students with 
 
 ### Stochastic Modelling for Finance
 
-<p class="paper-meta">LinkedIn educational series · 10 episodes</p>
+<p class="paper-meta">LinkedIn educational series · 9 episodes</p>
 
-Co-created a 10-part LinkedIn series explaining selected topics in finance, economics, and statistics for a broader academic and professional audience. The series aimed to make technical ideas more accessible while maintaining mathematical and financial precision.
+Co-created a 9-part LinkedIn series explaining selected topics in finance, economics, and statistics for a broader academic and professional audience. The series aimed to make technical ideas more accessible while maintaining mathematical and financial precision.
+
+<div class="paper-links">
+<a class="btn btn-secondary" href="stochastic-modelling.html">View archive →</a>
+</div>
 
 :::

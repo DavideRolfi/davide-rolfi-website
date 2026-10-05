@@ -53,7 +53,8 @@ I use continuous-time stochastic control to study long-term financial decisions 
 
 ::: {}
 <p class="label">Current paper</p>
-<p class="value"><a href="research.html#current-paper">Optimal Sustainable Pension Investing: Continuous-Time Defined-Contribution Portfolio Choice with ESG Preferences</a></p>
+<p class="value"><a href="research.html#current-paper">Optimal Sustainable Retirement Investing: Continuous-Time Portfolio Choice for Individual
+Retirement Plans with ESG Preferences</a></p>
 :::
 
 ::: {}

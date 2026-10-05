@@ -6,10 +6,12 @@ project:
   render:
     - index.qmd
     - research.qmd
+    - presentations.qmd
     - teaching.qmd
     - service.qmd
     - cv.qmd
     - fam.qmd
+    - stochastic-modelling.qmd
     - contact.qmd
 
 website:
@@ -30,6 +32,8 @@ website:
         href: index.qmd
       - text: "Research"
         href: research.qmd
+      - text: "Presentations"
+        href: presentations.qmd
       - text: "Teaching"
         href: teaching.qmd
       - text: "Service"
